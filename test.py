@@ -3,4 +3,4 @@ pal = stroka[::-1]
 if pal == stroka:
     print('True')
 else:
-    print('False')
+    print('dddd')

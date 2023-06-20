@@ -1,0 +1,47 @@
+body {
+    background-color: #c4c4c4;
+    color: white;
+}
+
+.main_title {
+    color: #f80;
+    text-align: center;
+    font-family: Verdana;
+}
+.Block-1 {
+    display: inline-block;
+    border: 5px double #965306;
+    border-radius: 10px;
+    width: 28%;
+    color: #5aeb36;
+    background: #fff;
+    padding-left: 20px;
+    font-family: Courier New;
+    margin-left: 2.4%;
+    margin-bottom: 2%
+}
+
+.Block-2 {
+    font-size: 28pt;
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+.code {
+    background: #fff;
+    border-radius: 15px;
+    width: 30%;
+    color: #5aeb36;
+    padding-top: 2px;
+    margin-left: 35%;
+}
+
+.img {
+    text-align: center;
+}
+.parag {
+    font-style: italic;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 1px 1px 2px green;
+}
